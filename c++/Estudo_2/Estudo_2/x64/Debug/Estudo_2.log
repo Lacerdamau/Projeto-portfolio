@@ -1,0 +1,4 @@
+﻿  Estudo_2.cpp
+D:\Programacao\c++\Estudo_2\Estudo_2.cpp(7,9): warning C4101: 'nota1': variável local não referenciada
+D:\Programacao\c++\Estudo_2\Estudo_2.cpp(8,9): warning C4101: 'nota2': variável local não referenciada
+  Estudo_2.vcxproj -> D:\Programacao\c++\Estudo_2\x64\Debug\Estudo_2.exe
